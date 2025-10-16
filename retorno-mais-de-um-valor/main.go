@@ -1,6 +1,8 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+)
 
 func main() {
 	soma, subtracao, multiplicacao, divisao := Operacao(1, 2)
